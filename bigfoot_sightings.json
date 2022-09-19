@@ -1,0 +1,198 @@
+[
+  {
+    "state": "Alabama",
+    "n": 94
+  },
+  {
+    "state": "Alaska",
+    "n": 20
+  },
+  {
+    "state": "Arizona",
+    "n": 85
+  },
+  {
+    "state": "Arkansas",
+    "n": 101
+  },
+  {
+    "state": "California",
+    "n": 417
+  },
+  {
+    "state": "Colorado",
+    "n": 127
+  },
+  {
+    "state": "Connecticut",
+    "n": 18
+  },
+  {
+    "state": "Delaware",
+    "n": 5
+  },
+  {
+    "state": "Florida",
+    "n": 302
+  },
+  {
+    "state": "Georgia",
+    "n": 126
+  },
+  {
+    "state": "Idaho",
+    "n": 96
+  },
+  {
+    "state": "Illinois",
+    "n": 237
+  },
+  {
+    "state": "Indiana",
+    "n": 79
+  },
+  {
+    "state": "Iowa",
+    "n": 56
+  },
+  {
+    "state": "Kansas",
+    "n": 45
+  },
+  {
+    "state": "Kentucky",
+    "n": 114
+  },
+  {
+    "state": "Louisiana",
+    "n": 41
+  },
+  {
+    "state": "Maine",
+    "n": 17
+  },
+  {
+    "state": "Maryland",
+    "n": 34
+  },
+  {
+    "state": "Massachusetts",
+    "n": 29
+  },
+  {
+    "state": "Michigan",
+    "n": 216
+  },
+  {
+    "state": "Minnesota",
+    "n": 72
+  },
+  {
+    "state": "Mississippi",
+    "n": 21
+  },
+  {
+    "state": "Missouri",
+    "n": 158
+  },
+  {
+    "state": "Montana",
+    "n": 51
+  },
+  {
+    "state": "Nebraska",
+    "n": 15
+  },
+  {
+    "state": "Nevada",
+    "n": 7
+  },
+  {
+    "state": "New Hampshire",
+    "n": 14
+  },
+  {
+    "state": "New Jersey",
+    "n": 66
+  },
+  {
+    "state": "New Mexico",
+    "n": 42
+  },
+  {
+    "state": "New York",
+    "n": 111
+  },
+  {
+    "state": "North Carolina",
+    "n": 89
+  },
+  {
+    "state": "North Dakota",
+    "n": 4
+  },
+  {
+    "state": "Ohio",
+    "n": 303
+  },
+  {
+    "state": "Oklahoma",
+    "n": 97
+  },
+  {
+    "state": "Oregon",
+    "n": 249
+  },
+  {
+    "state": "Pennsylvania",
+    "n": 115
+  },
+  {
+    "state": "Rhode Island",
+    "n": 5
+  },
+  {
+    "state": "South Carolina",
+    "n": 41
+  },
+  {
+    "state": "South Dakota",
+    "n": 13
+  },
+  {
+    "state": "Tennessee",
+    "n": 96
+  },
+  {
+    "state": "Texas",
+    "n": 230
+  },
+  {
+    "state": "Utah",
+    "n": 58
+  },
+  {
+    "state": "Vermont",
+    "n": 10
+  },
+  {
+    "state": "Virginia",
+    "n": 79
+  },
+  {
+    "state": "Washington",
+    "n": 601
+  },
+  {
+    "state": "West Virginia",
+    "n": 103
+  },
+  {
+    "state": "Wisconsin",
+    "n": 85
+  },
+  {
+    "state": "Wyoming",
+    "n": 27
+  }
+]
