@@ -1,0 +1,587 @@
+[
+  {
+    "type": "Actors",
+    "race": "African-American",
+    "n": 7425,
+    "total": 59280,
+    "percent": 0.1253,
+    "max": 0.6728,
+    "position": 0
+  },
+  {
+    "type": "Actors",
+    "race": "Asian",
+    "n": 2745,
+    "total": 59280,
+    "percent": 0.0463,
+    "max": 0.6728,
+    "position": 1
+  },
+  {
+    "type": "Actors",
+    "race": "Hispanic",
+    "n": 6915,
+    "total": 59280,
+    "percent": 0.1166,
+    "max": 0.6728,
+    "position": 2
+  },
+  {
+    "type": "Actors",
+    "race": "Other",
+    "n": 2310,
+    "total": 59280,
+    "percent": 0.039,
+    "max": 0.6728,
+    "position": 3
+  },
+  {
+    "type": "Actors",
+    "race": "White",
+    "n": 39885,
+    "total": 59280,
+    "percent": 0.6728,
+    "max": 0.6728,
+    "position": 4
+  },
+  {
+    "type": "Announcers",
+    "race": "African-American",
+    "n": 7730,
+    "total": 67170,
+    "percent": 0.1151,
+    "max": 0.6667,
+    "position": 0
+  },
+  {
+    "type": "Announcers",
+    "race": "Asian",
+    "n": 2530,
+    "total": 67170,
+    "percent": 0.0377,
+    "max": 0.6667,
+    "position": 1
+  },
+  {
+    "type": "Announcers",
+    "race": "Hispanic",
+    "n": 10680,
+    "total": 67170,
+    "percent": 0.159,
+    "max": 0.6667,
+    "position": 2
+  },
+  {
+    "type": "Announcers",
+    "race": "Other",
+    "n": 1445,
+    "total": 67170,
+    "percent": 0.0215,
+    "max": 0.6667,
+    "position": 3
+  },
+  {
+    "type": "Announcers",
+    "race": "White",
+    "n": 44785,
+    "total": 67170,
+    "percent": 0.6667,
+    "max": 0.6667,
+    "position": 4
+  },
+  {
+    "type": "Architects",
+    "race": "African-American",
+    "n": 4855,
+    "total": 176920,
+    "percent": 0.0274,
+    "max": 0.7419,
+    "position": 0
+  },
+  {
+    "type": "Architects",
+    "race": "Asian",
+    "n": 19680,
+    "total": 176920,
+    "percent": 0.1112,
+    "max": 0.7419,
+    "position": 1
+  },
+  {
+    "type": "Architects",
+    "race": "Hispanic",
+    "n": 17245,
+    "total": 176920,
+    "percent": 0.0975,
+    "max": 0.7419,
+    "position": 2
+  },
+  {
+    "type": "Architects",
+    "race": "Other",
+    "n": 3875,
+    "total": 176920,
+    "percent": 0.0219,
+    "max": 0.7419,
+    "position": 3
+  },
+  {
+    "type": "Architects",
+    "race": "White",
+    "n": 131265,
+    "total": 176920,
+    "percent": 0.7419,
+    "max": 0.7419,
+    "position": 4
+  },
+  {
+    "type": "Dancers And Choreographers",
+    "race": "African-American",
+    "n": 2865,
+    "total": 20610,
+    "percent": 0.139,
+    "max": 0.5716,
+    "position": 0
+  },
+  {
+    "type": "Dancers And Choreographers",
+    "race": "Asian",
+    "n": 590,
+    "total": 20610,
+    "percent": 0.0286,
+    "max": 0.5716,
+    "position": 1
+  },
+  {
+    "type": "Dancers And Choreographers",
+    "race": "Hispanic",
+    "n": 3810,
+    "total": 20610,
+    "percent": 0.1849,
+    "max": 0.5716,
+    "position": 2
+  },
+  {
+    "type": "Dancers And Choreographers",
+    "race": "Other",
+    "n": 1565,
+    "total": 20610,
+    "percent": 0.0759,
+    "max": 0.5716,
+    "position": 3
+  },
+  {
+    "type": "Dancers And Choreographers",
+    "race": "White",
+    "n": 11780,
+    "total": 20610,
+    "percent": 0.5716,
+    "max": 0.5716,
+    "position": 4
+  },
+  {
+    "type": "Designers",
+    "race": "African-American",
+    "n": 42295,
+    "total": 933935,
+    "percent": 0.0453,
+    "max": 0.7237,
+    "position": 0
+  },
+  {
+    "type": "Designers",
+    "race": "Asian",
+    "n": 77390,
+    "total": 933935,
+    "percent": 0.0829,
+    "max": 0.7237,
+    "position": 1
+  },
+  {
+    "type": "Designers",
+    "race": "Hispanic",
+    "n": 113465,
+    "total": 933935,
+    "percent": 0.1215,
+    "max": 0.7237,
+    "position": 2
+  },
+  {
+    "type": "Designers",
+    "race": "Other",
+    "n": 24935,
+    "total": 933935,
+    "percent": 0.0267,
+    "max": 0.7237,
+    "position": 3
+  },
+  {
+    "type": "Designers",
+    "race": "White",
+    "n": 675850,
+    "total": 933935,
+    "percent": 0.7237,
+    "max": 0.7237,
+    "position": 4
+  },
+  {
+    "type": "Entertainers",
+    "race": "African-American",
+    "n": 5220,
+    "total": 47690,
+    "percent": 0.1095,
+    "max": 0.6877,
+    "position": 0
+  },
+  {
+    "type": "Entertainers",
+    "race": "Asian",
+    "n": 1960,
+    "total": 47690,
+    "percent": 0.0411,
+    "max": 0.6877,
+    "position": 1
+  },
+  {
+    "type": "Entertainers",
+    "race": "Hispanic",
+    "n": 6355,
+    "total": 47690,
+    "percent": 0.1333,
+    "max": 0.6877,
+    "position": 2
+  },
+  {
+    "type": "Entertainers",
+    "race": "Other",
+    "n": 1360,
+    "total": 47690,
+    "percent": 0.0285,
+    "max": 0.6877,
+    "position": 3
+  },
+  {
+    "type": "Entertainers",
+    "race": "White",
+    "n": 32795,
+    "total": 47690,
+    "percent": 0.6877,
+    "max": 0.6877,
+    "position": 4
+  },
+  {
+    "type": "Fine Artists, Art Directors, And Animators",
+    "race": "African-American",
+    "n": 9090,
+    "total": 231665,
+    "percent": 0.0392,
+    "max": 0.7561,
+    "position": 0
+  },
+  {
+    "type": "Fine Artists, Art Directors, And Animators",
+    "race": "Asian",
+    "n": 14040,
+    "total": 231665,
+    "percent": 0.0606,
+    "max": 0.7561,
+    "position": 1
+  },
+  {
+    "type": "Fine Artists, Art Directors, And Animators",
+    "race": "Hispanic",
+    "n": 24775,
+    "total": 231665,
+    "percent": 0.1069,
+    "max": 0.7561,
+    "position": 2
+  },
+  {
+    "type": "Fine Artists, Art Directors, And Animators",
+    "race": "Other",
+    "n": 8600,
+    "total": 231665,
+    "percent": 0.0371,
+    "max": 0.7561,
+    "position": 3
+  },
+  {
+    "type": "Fine Artists, Art Directors, And Animators",
+    "race": "White",
+    "n": 175160,
+    "total": 231665,
+    "percent": 0.7561,
+    "max": 0.7561,
+    "position": 4
+  },
+  {
+    "type": "Landscape Architects",
+    "race": "African-American",
+    "n": 565,
+    "total": 30929,
+    "percent": 0.0183,
+    "max": 0.8056,
+    "position": 0
+  },
+  {
+    "type": "Landscape Architects",
+    "race": "Asian",
+    "n": 2015,
+    "total": 30929,
+    "percent": 0.0651,
+    "max": 0.8056,
+    "position": 1
+  },
+  {
+    "type": "Landscape Architects",
+    "race": "Hispanic",
+    "n": 3020,
+    "total": 30929,
+    "percent": 0.0976,
+    "max": 0.8056,
+    "position": 2
+  },
+  {
+    "type": "Landscape Architects",
+    "race": "Other",
+    "n": 414,
+    "total": 30929,
+    "percent": 0.0134,
+    "max": 0.8056,
+    "position": 3
+  },
+  {
+    "type": "Landscape Architects",
+    "race": "White",
+    "n": 24915,
+    "total": 30929,
+    "percent": 0.8056,
+    "max": 0.8056,
+    "position": 4
+  },
+  {
+    "type": "Music Directors And Composers",
+    "race": "African-American",
+    "n": 5000,
+    "total": 45610,
+    "percent": 0.1096,
+    "max": 0.7848,
+    "position": 0
+  },
+  {
+    "type": "Music Directors And Composers",
+    "race": "Asian",
+    "n": 1045,
+    "total": 45610,
+    "percent": 0.0229,
+    "max": 0.7848,
+    "position": 1
+  },
+  {
+    "type": "Music Directors And Composers",
+    "race": "Hispanic",
+    "n": 2850,
+    "total": 45610,
+    "percent": 0.0625,
+    "max": 0.7848,
+    "position": 2
+  },
+  {
+    "type": "Music Directors And Composers",
+    "race": "Other",
+    "n": 920,
+    "total": 45610,
+    "percent": 0.0202,
+    "max": 0.7848,
+    "position": 3
+  },
+  {
+    "type": "Music Directors And Composers",
+    "race": "White",
+    "n": 35795,
+    "total": 45610,
+    "percent": 0.7848,
+    "max": 0.7848,
+    "position": 4
+  },
+  {
+    "type": "Musicians",
+    "race": "African-American",
+    "n": 21635,
+    "total": 167819,
+    "percent": 0.1289,
+    "max": 0.6991,
+    "position": 0
+  },
+  {
+    "type": "Musicians",
+    "race": "Asian",
+    "n": 5690,
+    "total": 167819,
+    "percent": 0.0339,
+    "max": 0.6991,
+    "position": 1
+  },
+  {
+    "type": "Musicians",
+    "race": "Hispanic",
+    "n": 18355,
+    "total": 167819,
+    "percent": 0.1094,
+    "max": 0.6991,
+    "position": 2
+  },
+  {
+    "type": "Musicians",
+    "race": "Other",
+    "n": 4814,
+    "total": 167819,
+    "percent": 0.0287,
+    "max": 0.6991,
+    "position": 3
+  },
+  {
+    "type": "Musicians",
+    "race": "White",
+    "n": 117325,
+    "total": 167819,
+    "percent": 0.6991,
+    "max": 0.6991,
+    "position": 4
+  },
+  {
+    "type": "Photographers",
+    "race": "African-American",
+    "n": 11955,
+    "total": 188525,
+    "percent": 0.0634,
+    "max": 0.7388,
+    "position": 0
+  },
+  {
+    "type": "Photographers",
+    "race": "Asian",
+    "n": 8335,
+    "total": 188525,
+    "percent": 0.0442,
+    "max": 0.7388,
+    "position": 1
+  },
+  {
+    "type": "Photographers",
+    "race": "Hispanic",
+    "n": 23410,
+    "total": 188525,
+    "percent": 0.1242,
+    "max": 0.7388,
+    "position": 2
+  },
+  {
+    "type": "Photographers",
+    "race": "Other",
+    "n": 5550,
+    "total": 188525,
+    "percent": 0.0294,
+    "max": 0.7388,
+    "position": 3
+  },
+  {
+    "type": "Photographers",
+    "race": "White",
+    "n": 139275,
+    "total": 188525,
+    "percent": 0.7388,
+    "max": 0.7388,
+    "position": 4
+  },
+  {
+    "type": "Producers And Directors",
+    "race": "African-American",
+    "n": 13180,
+    "total": 174870,
+    "percent": 0.0754,
+    "max": 0.7443,
+    "position": 0
+  },
+  {
+    "type": "Producers And Directors",
+    "race": "Asian",
+    "n": 7465,
+    "total": 174870,
+    "percent": 0.0427,
+    "max": 0.7443,
+    "position": 1
+  },
+  {
+    "type": "Producers And Directors",
+    "race": "Hispanic",
+    "n": 18565,
+    "total": 174870,
+    "percent": 0.1062,
+    "max": 0.7443,
+    "position": 2
+  },
+  {
+    "type": "Producers And Directors",
+    "race": "Other",
+    "n": 5505,
+    "total": 174870,
+    "percent": 0.0315,
+    "max": 0.7443,
+    "position": 3
+  },
+  {
+    "type": "Producers And Directors",
+    "race": "White",
+    "n": 130155,
+    "total": 174870,
+    "percent": 0.7443,
+    "max": 0.7443,
+    "position": 4
+  },
+  {
+    "type": "Writers And Authors",
+    "race": "African-American",
+    "n": 12365,
+    "total": 247310,
+    "percent": 0.05,
+    "max": 0.8272,
+    "position": 0
+  },
+  {
+    "type": "Writers And Authors",
+    "race": "Asian",
+    "n": 9165,
+    "total": 247310,
+    "percent": 0.0371,
+    "max": 0.8272,
+    "position": 1
+  },
+  {
+    "type": "Writers And Authors",
+    "race": "Hispanic",
+    "n": 14110,
+    "total": 247310,
+    "percent": 0.0571,
+    "max": 0.8272,
+    "position": 2
+  },
+  {
+    "type": "Writers And Authors",
+    "race": "Other",
+    "n": 7085,
+    "total": 247310,
+    "percent": 0.0286,
+    "max": 0.8272,
+    "position": 3
+  },
+  {
+    "type": "Writers And Authors",
+    "race": "White",
+    "n": 204585,
+    "total": 247310,
+    "percent": 0.8272,
+    "max": 0.8272,
+    "position": 4
+  }
+]
