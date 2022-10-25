@@ -1,0 +1,309 @@
+customer_type,type_of_travel,class,overall_satisfaction,survey_item,sd_answwer,survey_answer
+Regular Customer,Business travel,Business,neutral or dissatisfied,Baggage handling,0.85,4.14
+Regular Customer,Business travel,Business,neutral or dissatisfied,Checkin service,1.15,3.59
+Regular Customer,Business travel,Business,neutral or dissatisfied,Cleanliness,1.4,3.02
+Regular Customer,Business travel,Business,neutral or dissatisfied,Departure/Arrival time convenient,1.22,2.38
+Regular Customer,Business travel,Business,neutral or dissatisfied,Ease of Online booking,1.02,2.39
+Regular Customer,Business travel,Business,neutral or dissatisfied,Food and drink,1.39,2.99
+Regular Customer,Business travel,Business,neutral or dissatisfied,Gate location,1.19,2.94
+Regular Customer,Business travel,Business,neutral or dissatisfied,Inflight entertainment,1.4,3.03
+Regular Customer,Business travel,Business,neutral or dissatisfied,Inflight service,0.88,4.14
+Regular Customer,Business travel,Business,neutral or dissatisfied,Inflight wifi service,0.95,2.39
+Regular Customer,Business travel,Business,neutral or dissatisfied,Leg room service,1.22,3.39
+Regular Customer,Business travel,Business,neutral or dissatisfied,On-board service,1.14,3.6
+Regular Customer,Business travel,Business,neutral or dissatisfied,Online boarding,1.03,2.42
+Regular Customer,Business travel,Business,neutral or dissatisfied,Seat comfort,1.42,2.97
+Regular Customer,Business travel,Business,satisfied,Baggage handling,0.72,4.35
+Regular Customer,Business travel,Business,satisfied,Checkin service,0.93,3.9
+Regular Customer,Business travel,Business,satisfied,Cleanliness,1.38,3.08
+Regular Customer,Business travel,Business,satisfied,Departure/Arrival time convenient,2.08,2.75
+Regular Customer,Business travel,Business,satisfied,Ease of Online booking,1.68,3.7
+Regular Customer,Business travel,Business,satisfied,Food and drink,1.4,3.11
+Regular Customer,Business travel,Business,satisfied,Gate location,1.28,2.82
+Regular Customer,Business travel,Business,satisfied,Inflight entertainment,1.37,3.11
+Regular Customer,Business travel,Business,satisfied,Inflight service,0.75,4.36
+Regular Customer,Business travel,Business,satisfied,Inflight wifi service,1.68,3.75
+Regular Customer,Business travel,Business,satisfied,Leg room service,1.16,3.51
+Regular Customer,Business travel,Business,satisfied,On-board service,0.93,3.89
+Regular Customer,Business travel,Business,satisfied,Online boarding,1.68,3.66
+Regular Customer,Business travel,Business,satisfied,Seat comfort,1.4,3.02
+Regular Customer,Business travel,Eco,neutral or dissatisfied,Baggage handling,1.07,3.32
+Regular Customer,Business travel,Eco,neutral or dissatisfied,Checkin service,1.29,2.82
+Regular Customer,Business travel,Eco,neutral or dissatisfied,Cleanliness,1.39,3.05
+Regular Customer,Business travel,Eco,neutral or dissatisfied,Departure/Arrival time convenient,1.44,2.22
+Regular Customer,Business travel,Eco,neutral or dissatisfied,Ease of Online booking,1.03,2.4
+Regular Customer,Business travel,Eco,neutral or dissatisfied,Food and drink,1.38,3.02
+Regular Customer,Business travel,Eco,neutral or dissatisfied,Gate location,1.01,3.09
+Regular Customer,Business travel,Eco,neutral or dissatisfied,Inflight entertainment,1.38,3.03
+Regular Customer,Business travel,Eco,neutral or dissatisfied,Inflight service,1.07,3.32
+Regular Customer,Business travel,Eco,neutral or dissatisfied,Inflight wifi service,0.96,2.4
+Regular Customer,Business travel,Eco,neutral or dissatisfied,Leg room service,1.38,3.07
+Regular Customer,Business travel,Eco,neutral or dissatisfied,On-board service,1.28,2.85
+Regular Customer,Business travel,Eco,neutral or dissatisfied,Online boarding,1.05,2.43
+Regular Customer,Business travel,Eco,neutral or dissatisfied,Seat comfort,1.4,2.99
+Regular Customer,Business travel,Eco,satisfied,Baggage handling,1.3,3.7
+Regular Customer,Business travel,Eco,satisfied,Checkin service,1.28,3.43
+Regular Customer,Business travel,Eco,satisfied,Cleanliness,1.36,3.09
+Regular Customer,Business travel,Eco,satisfied,Departure/Arrival time convenient,2.07,2.7
+Regular Customer,Business travel,Eco,satisfied,Ease of Online booking,1.7,3.66
+Regular Customer,Business travel,Eco,satisfied,Food and drink,1.38,3.12
+Regular Customer,Business travel,Eco,satisfied,Gate location,1.28,2.82
+Regular Customer,Business travel,Eco,satisfied,Inflight entertainment,1.37,3.1
+Regular Customer,Business travel,Eco,satisfied,Inflight service,1.34,3.66
+Regular Customer,Business travel,Eco,satisfied,Inflight wifi service,1.71,3.69
+Regular Customer,Business travel,Eco,satisfied,Leg room service,1.33,3.17
+Regular Customer,Business travel,Eco,satisfied,On-board service,1.31,3.42
+Regular Customer,Business travel,Eco,satisfied,Online boarding,1.72,3.59
+Regular Customer,Business travel,Eco,satisfied,Seat comfort,1.39,3.03
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,Baggage handling,1.07,3.14
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,Checkin service,1.28,2.75
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,Cleanliness,1.41,3.08
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,Departure/Arrival time convenient,1.21,2.27
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,Ease of Online booking,1.03,2.38
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,Food and drink,1.39,3.03
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,Gate location,0.96,3.16
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,Inflight entertainment,1.4,3.04
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,Inflight service,1.07,3.14
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,Inflight wifi service,0.96,2.4
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,Leg room service,1.42,3.09
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,On-board service,1.29,2.72
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,Online boarding,1.08,2.42
+Regular Customer,Business travel,Eco Plus,neutral or dissatisfied,Seat comfort,1.43,3.03
+Regular Customer,Business travel,Eco Plus,satisfied,Baggage handling,1.54,3.12
+Regular Customer,Business travel,Eco Plus,satisfied,Checkin service,1.17,3.27
+Regular Customer,Business travel,Eco Plus,satisfied,Cleanliness,1.38,3.09
+Regular Customer,Business travel,Eco Plus,satisfied,Departure/Arrival time convenient,2.1,2.43
+Regular Customer,Business travel,Eco Plus,satisfied,Ease of Online booking,2.09,3.21
+Regular Customer,Business travel,Eco Plus,satisfied,Food and drink,1.38,3.12
+Regular Customer,Business travel,Eco Plus,satisfied,Gate location,1.32,2.71
+Regular Customer,Business travel,Eco Plus,satisfied,Inflight entertainment,1.41,3.05
+Regular Customer,Business travel,Eco Plus,satisfied,Inflight service,1.31,3.14
+Regular Customer,Business travel,Eco Plus,satisfied,Inflight wifi service,2.08,3.16
+Regular Customer,Business travel,Eco Plus,satisfied,Leg room service,1.4,2.82
+Regular Customer,Business travel,Eco Plus,satisfied,On-board service,1.42,2.95
+Regular Customer,Business travel,Eco Plus,satisfied,Online boarding,2.07,3
+Regular Customer,Business travel,Eco Plus,satisfied,Seat comfort,1.39,2.88
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,Baggage handling,1.1,4
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,Checkin service,1.19,3.27
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,Cleanliness,1.26,2
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,Departure/Arrival time convenient,1.04,4.09
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,Ease of Online booking,1.21,2.45
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,Food and drink,1.22,2.09
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,Gate location,1.43,2.64
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,Inflight entertainment,1.25,2.18
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,Inflight service,1.29,3.45
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,Inflight wifi service,0.9,2.73
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,Leg room service,1.57,3.45
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,On-board service,1.41,3
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,Online boarding,1.29,2.36
+Regular Customer,Personal Travel,Business,neutral or dissatisfied,Seat comfort,1.1,2
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,Baggage handling,1.17,3.74
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,Checkin service,1.28,3.27
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,Cleanliness,1.43,3.24
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,Departure/Arrival time convenient,1.41,3.67
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,Ease of Online booking,1.02,2.23
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,Food and drink,1.43,3.2
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,Gate location,1.12,2.96
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,Inflight entertainment,1.43,3.21
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,Inflight service,1.1,3.81
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,Inflight wifi service,0.88,2.37
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,Leg room service,1.35,3.2
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,On-board service,1.23,3.39
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,Online boarding,1.02,2.24
+Regular Customer,Personal Travel,Eco,neutral or dissatisfied,Seat comfort,1.46,3.08
+Regular Customer,Personal Travel,Eco,satisfied,Baggage handling,1.1,3.62
+Regular Customer,Personal Travel,Eco,satisfied,Checkin service,1.12,3.27
+Regular Customer,Personal Travel,Eco,satisfied,Cleanliness,1.18,2.96
+Regular Customer,Personal Travel,Eco,satisfied,Departure/Arrival time convenient,1.48,3.54
+Regular Customer,Personal Travel,Eco,satisfied,Ease of Online booking,1.81,3.65
+Regular Customer,Personal Travel,Eco,satisfied,Food and drink,1.18,2.96
+Regular Customer,Personal Travel,Eco,satisfied,Gate location,1.11,3.04
+Regular Customer,Personal Travel,Eco,satisfied,Inflight entertainment,1.18,2.96
+Regular Customer,Personal Travel,Eco,satisfied,Inflight service,0.85,3.62
+Regular Customer,Personal Travel,Eco,satisfied,Inflight wifi service,1.74,3.85
+Regular Customer,Personal Travel,Eco,satisfied,Leg room service,1.3,3.46
+Regular Customer,Personal Travel,Eco,satisfied,On-board service,1.23,3
+Regular Customer,Personal Travel,Eco,satisfied,Online boarding,1.74,3.69
+Regular Customer,Personal Travel,Eco,satisfied,Seat comfort,1.17,3
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Baggage handling,1.71,3.25
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Checkin service,2.06,2.75
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Cleanliness,1.29,2.5
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Departure/Arrival time convenient,0.58,3.5
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Ease of Online booking,1.29,2.5
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Food and drink,1.29,2.5
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Gate location,0.82,3
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Inflight entertainment,1.29,2.5
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Inflight service,0.5,4.75
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Inflight wifi service,1.29,2.5
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Leg room service,1.63,3
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,On-board service,1.41,4
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Online boarding,1.29,2.5
+Regular Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Seat comfort,1.29,2.5
+Loyal Customer,Business travel,Business,neutral or dissatisfied,Baggage handling,1,2.7
+Loyal Customer,Business travel,Business,neutral or dissatisfied,Checkin service,1.11,2.49
+Loyal Customer,Business travel,Business,neutral or dissatisfied,Cleanliness,1.09,2.47
+Loyal Customer,Business travel,Business,neutral or dissatisfied,Departure/Arrival time convenient,1.44,2.94
+Loyal Customer,Business travel,Business,neutral or dissatisfied,Ease of Online booking,1.42,3.01
+Loyal Customer,Business travel,Business,neutral or dissatisfied,Food and drink,1.31,2.77
+Loyal Customer,Business travel,Business,neutral or dissatisfied,Gate location,1.39,3
+Loyal Customer,Business travel,Business,neutral or dissatisfied,Inflight entertainment,1.01,2.43
+Loyal Customer,Business travel,Business,neutral or dissatisfied,Inflight service,1,2.7
+Loyal Customer,Business travel,Business,neutral or dissatisfied,Inflight wifi service,1,2.39
+Loyal Customer,Business travel,Business,neutral or dissatisfied,Leg room service,1.15,2.6
+Loyal Customer,Business travel,Business,neutral or dissatisfied,On-board service,1.07,2.48
+Loyal Customer,Business travel,Business,neutral or dissatisfied,Online boarding,0.95,2.86
+Loyal Customer,Business travel,Business,neutral or dissatisfied,Seat comfort,0.92,2.9
+Loyal Customer,Business travel,Business,satisfied,Baggage handling,0.97,4.11
+Loyal Customer,Business travel,Business,satisfied,Checkin service,1.06,3.78
+Loyal Customer,Business travel,Business,satisfied,Cleanliness,1.01,3.88
+Loyal Customer,Business travel,Business,satisfied,Departure/Arrival time convenient,1.48,2.93
+Loyal Customer,Business travel,Business,satisfied,Ease of Online booking,1.5,2.91
+Loyal Customer,Business travel,Business,satisfied,Food and drink,1.18,3.56
+Loyal Customer,Business travel,Business,satisfied,Gate location,1.4,3
+Loyal Customer,Business travel,Business,satisfied,Inflight entertainment,0.89,4.15
+Loyal Customer,Business travel,Business,satisfied,Inflight service,0.96,4.11
+Loyal Customer,Business travel,Business,satisfied,Inflight wifi service,1.52,2.86
+Loyal Customer,Business travel,Business,satisfied,Leg room service,1,4.04
+Loyal Customer,Business travel,Business,satisfied,On-board service,0.99,4.05
+Loyal Customer,Business travel,Business,satisfied,Online boarding,0.95,4.18
+Loyal Customer,Business travel,Business,satisfied,Seat comfort,0.94,4.21
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,Baggage handling,0.91,2.96
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,Checkin service,1.13,2.49
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,Cleanliness,1.04,2.49
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,Departure/Arrival time convenient,1.42,2.97
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,Ease of Online booking,1.4,3.02
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,Food and drink,1.17,2.61
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,Gate location,1.38,3.04
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,Inflight entertainment,1.02,2.48
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,Inflight service,0.92,2.96
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,Inflight wifi service,0.98,2.43
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,Leg room service,1.3,2.83
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,On-board service,1.11,2.51
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,Online boarding,0.99,2.63
+Loyal Customer,Business travel,Eco,neutral or dissatisfied,Seat comfort,1.01,2.66
+Loyal Customer,Business travel,Eco,satisfied,Baggage handling,1.39,3.32
+Loyal Customer,Business travel,Eco,satisfied,Checkin service,1.42,3.07
+Loyal Customer,Business travel,Eco,satisfied,Cleanliness,1.18,3.84
+Loyal Customer,Business travel,Eco,satisfied,Departure/Arrival time convenient,1.45,2.96
+Loyal Customer,Business travel,Eco,satisfied,Ease of Online booking,1.48,2.98
+Loyal Customer,Business travel,Eco,satisfied,Food and drink,1.19,3.83
+Loyal Customer,Business travel,Eco,satisfied,Gate location,1.4,3.02
+Loyal Customer,Business travel,Eco,satisfied,Inflight entertainment,0.93,4.12
+Loyal Customer,Business travel,Eco,satisfied,Inflight service,1.38,3.33
+Loyal Customer,Business travel,Eco,satisfied,Inflight wifi service,1.1,4.08
+Loyal Customer,Business travel,Eco,satisfied,Leg room service,1.38,3.32
+Loyal Customer,Business travel,Eco,satisfied,On-board service,1.37,3.32
+Loyal Customer,Business travel,Eco,satisfied,Online boarding,1.3,3.82
+Loyal Customer,Business travel,Eco,satisfied,Seat comfort,1.18,3.82
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,Baggage handling,0.84,3.12
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,Checkin service,1.11,2.43
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,Cleanliness,1.03,2.45
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,Departure/Arrival time convenient,1.45,2.93
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,Ease of Online booking,1.43,3.01
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,Food and drink,1.11,2.55
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,Gate location,1.41,2.97
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,Inflight entertainment,1.01,2.44
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,Inflight service,0.86,3.12
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,Inflight wifi service,0.99,2.42
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,Leg room service,1.32,2.88
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,On-board service,1.13,2.5
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,Online boarding,0.98,2.57
+Loyal Customer,Business travel,Eco Plus,neutral or dissatisfied,Seat comfort,1.01,2.6
+Loyal Customer,Business travel,Eco Plus,satisfied,Baggage handling,1.42,3.25
+Loyal Customer,Business travel,Eco Plus,satisfied,Checkin service,1.42,3.05
+Loyal Customer,Business travel,Eco Plus,satisfied,Cleanliness,1.16,3.9
+Loyal Customer,Business travel,Eco Plus,satisfied,Departure/Arrival time convenient,1.52,2.93
+Loyal Customer,Business travel,Eco Plus,satisfied,Ease of Online booking,1.6,2.86
+Loyal Customer,Business travel,Eco Plus,satisfied,Food and drink,1.21,3.89
+Loyal Customer,Business travel,Eco Plus,satisfied,Gate location,1.44,3.02
+Loyal Customer,Business travel,Eco Plus,satisfied,Inflight entertainment,0.96,4.14
+Loyal Customer,Business travel,Eco Plus,satisfied,Inflight service,1.38,3.25
+Loyal Customer,Business travel,Eco Plus,satisfied,Inflight wifi service,1.37,3.97
+Loyal Customer,Business travel,Eco Plus,satisfied,Leg room service,1.43,3.2
+Loyal Customer,Business travel,Eco Plus,satisfied,On-board service,1.41,3.21
+Loyal Customer,Business travel,Eco Plus,satisfied,Online boarding,1.45,3.77
+Loyal Customer,Business travel,Eco Plus,satisfied,Seat comfort,1.17,3.86
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,Baggage handling,1.34,3.35
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,Checkin service,1.23,3.33
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,Cleanliness,1.29,3.23
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,Departure/Arrival time convenient,1.4,3.62
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,Ease of Online booking,1.08,2.42
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,Food and drink,1.32,3.11
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,Gate location,1.14,2.94
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,Inflight entertainment,1.37,3.03
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,Inflight service,1.33,3.35
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,Inflight wifi service,0.96,2.41
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,Leg room service,1.26,2.79
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,On-board service,1.34,3.16
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,Online boarding,1.29,3.19
+Loyal Customer,Personal Travel,Business,neutral or dissatisfied,Seat comfort,1.28,3.46
+Loyal Customer,Personal Travel,Business,satisfied,Baggage handling,1.33,3.28
+Loyal Customer,Personal Travel,Business,satisfied,Checkin service,1.24,3.33
+Loyal Customer,Personal Travel,Business,satisfied,Cleanliness,1.35,3.22
+Loyal Customer,Personal Travel,Business,satisfied,Departure/Arrival time convenient,1.45,3.69
+Loyal Customer,Personal Travel,Business,satisfied,Ease of Online booking,1.86,3.42
+Loyal Customer,Personal Travel,Business,satisfied,Food and drink,1.38,3.15
+Loyal Customer,Personal Travel,Business,satisfied,Gate location,1.15,2.9
+Loyal Customer,Personal Travel,Business,satisfied,Inflight entertainment,1.36,2.93
+Loyal Customer,Personal Travel,Business,satisfied,Inflight service,1.33,3.22
+Loyal Customer,Personal Travel,Business,satisfied,Inflight wifi service,1.83,3.54
+Loyal Customer,Personal Travel,Business,satisfied,Leg room service,1.63,3.28
+Loyal Customer,Personal Travel,Business,satisfied,On-board service,1.25,3.06
+Loyal Customer,Personal Travel,Business,satisfied,Online boarding,1.47,3.62
+Loyal Customer,Personal Travel,Business,satisfied,Seat comfort,1.31,3.5
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,Baggage handling,1.22,3.6
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,Checkin service,1.25,3.34
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,Cleanliness,1.36,3.12
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,Departure/Arrival time convenient,1.37,3.65
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,Ease of Online booking,1.1,2.37
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,Food and drink,1.36,3.07
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,Gate location,1.14,2.92
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,Inflight entertainment,1.38,3.07
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,Inflight service,1.21,3.62
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,Inflight wifi service,0.95,2.4
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,Leg room service,1.3,3.08
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,On-board service,1.3,3.28
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,Online boarding,1.25,2.69
+Loyal Customer,Personal Travel,Eco,neutral or dissatisfied,Seat comfort,1.38,3.17
+Loyal Customer,Personal Travel,Eco,satisfied,Baggage handling,1.24,3.6
+Loyal Customer,Personal Travel,Eco,satisfied,Checkin service,1.25,3.34
+Loyal Customer,Personal Travel,Eco,satisfied,Cleanliness,1.37,3.12
+Loyal Customer,Personal Travel,Eco,satisfied,Departure/Arrival time convenient,1.37,3.67
+Loyal Customer,Personal Travel,Eco,satisfied,Ease of Online booking,1.92,3.43
+Loyal Customer,Personal Travel,Eco,satisfied,Food and drink,1.39,3.12
+Loyal Customer,Personal Travel,Eco,satisfied,Gate location,1.14,2.9
+Loyal Customer,Personal Travel,Eco,satisfied,Inflight entertainment,1.39,3.06
+Loyal Customer,Personal Travel,Eco,satisfied,Inflight service,1.2,3.64
+Loyal Customer,Personal Travel,Eco,satisfied,Inflight wifi service,1.85,3.6
+Loyal Customer,Personal Travel,Eco,satisfied,Leg room service,1.46,3.25
+Loyal Customer,Personal Travel,Eco,satisfied,On-board service,1.31,3.27
+Loyal Customer,Personal Travel,Eco,satisfied,Online boarding,1.74,3.5
+Loyal Customer,Personal Travel,Eco,satisfied,Seat comfort,1.39,3.19
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Baggage handling,1.23,3.57
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Checkin service,1.28,3.32
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Cleanliness,1.36,3.16
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Departure/Arrival time convenient,1.37,3.66
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Ease of Online booking,1.09,2.36
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Food and drink,1.37,3.1
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Gate location,1.12,2.92
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Inflight entertainment,1.39,3.09
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Inflight service,1.22,3.61
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Inflight wifi service,0.95,2.4
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Leg room service,1.3,3.06
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,On-board service,1.28,3.29
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Online boarding,1.25,2.69
+Loyal Customer,Personal Travel,Eco Plus,neutral or dissatisfied,Seat comfort,1.38,3.22
+Loyal Customer,Personal Travel,Eco Plus,satisfied,Baggage handling,1.17,3.62
+Loyal Customer,Personal Travel,Eco Plus,satisfied,Checkin service,1.28,3.33
+Loyal Customer,Personal Travel,Eco Plus,satisfied,Cleanliness,1.39,3.08
+Loyal Customer,Personal Travel,Eco Plus,satisfied,Departure/Arrival time convenient,1.29,3.67
+Loyal Customer,Personal Travel,Eco Plus,satisfied,Ease of Online booking,1.89,3.5
+Loyal Customer,Personal Travel,Eco Plus,satisfied,Food and drink,1.38,3.07
+Loyal Customer,Personal Travel,Eco Plus,satisfied,Gate location,1.09,2.84
+Loyal Customer,Personal Travel,Eco Plus,satisfied,Inflight entertainment,1.38,3.03
+Loyal Customer,Personal Travel,Eco Plus,satisfied,Inflight service,1.12,3.7
+Loyal Customer,Personal Travel,Eco Plus,satisfied,Inflight wifi service,1.84,3.62
+Loyal Customer,Personal Travel,Eco Plus,satisfied,Leg room service,1.43,3.41
+Loyal Customer,Personal Travel,Eco Plus,satisfied,On-board service,1.24,3.35
+Loyal Customer,Personal Travel,Eco Plus,satisfied,Online boarding,1.73,3.53
+Loyal Customer,Personal Travel,Eco Plus,satisfied,Seat comfort,1.38,3.17
