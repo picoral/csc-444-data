@@ -1,0 +1,187 @@
+country,year,lifeExpectancy
+Afghanistan,2022,64.6
+Angola,2022,66.4
+Albania,2022,79
+United Arab Emirates,2022,74.4
+Argentina,2022,77.2
+Armenia,2022,76.3
+Antigua and Barbuda,2022,76.8
+Australia,2022,83.5
+Austria,2022,82.8
+Azerbaijan,2022,71.4
+Burundi,2022,65.2
+Belgium,2022,82
+Benin,2022,65.8
+Burkina Faso,2022,63.3
+Bangladesh,2022,75.7
+Bulgaria,2022,73.8
+Bahrain,2022,77.5
+Bahamas,2022,73.8
+Bosnia and Herzegovina,2022,77.6
+Belarus,2022,74.5
+Belize,2022,75
+Bolivia,2022,73
+Brazil,2022,76.6
+Barbados,2022,76.7
+Brunei,2022,74.9
+Bhutan,2022,74.3
+Botswana,2022,62.7
+Central African Republic,2022,53.6
+Canada,2022,82.8
+Switzerland,2022,84.5
+Chile,2022,80.8
+China,2022,78.3
+Cote d'Ivoire,2022,65.5
+Cameroon,2022,64.6
+"Congo, Dem. Rep.",2022,66.2
+"Congo, Rep.",2022,66.2
+Colombia,2022,80.9
+Comoros,2022,69.6
+Cape Verde,2022,74.4
+Costa Rica,2022,80.8
+Cuba,2022,79.1
+Cyprus,2022,81.4
+Czech Republic,2022,80
+Germany,2022,81.8
+Djibouti,2022,67.8
+Denmark,2022,81.7
+Dominican Republic,2022,73.8
+Algeria,2022,76.9
+Ecuador,2022,77.2
+Egypt,2022,71.6
+Eritrea,2022,65.1
+Spain,2022,83.6
+Estonia,2022,78.6
+Ethiopia,2022,70.3
+Finland,2022,82.5
+Fiji,2022,68.9
+France,2022,83.4
+"Micronesia, Fed. Sts.",2022,64.5
+Gabon,2022,68.5
+United Kingdom,2022,81.6
+Georgia,2022,74
+Ghana,2022,67.3
+Guinea,2022,62.5
+Gambia,2022,68.2
+Guinea-Bissau,2022,62.2
+Equatorial Guinea,2022,67.4
+Greece,2022,81.6
+Grenada,2022,73.5
+Guatemala,2022,73.4
+Guyana,2022,67.7
+"Hong Kong, China",2022,85
+Honduras,2022,72.7
+Croatia,2022,79.3
+Haiti,2022,64.9
+Hungary,2022,77.1
+Indonesia,2022,72.1
+India,2022,71.7
+Ireland,2022,82.6
+Iran,2022,78.5
+Iraq,2022,73.8
+Iceland,2022,84.7
+Israel,2022,83.6
+Italy,2022,83.7
+Jamaica,2022,76.7
+Jordan,2022,78.8
+Japan,2022,85.3
+Kazakhstan,2022,72.4
+Kenya,2022,67.5
+Kyrgyz Republic,2022,74
+Cambodia,2022,70.8
+Kiribati,2022,61.6
+South Korea,2022,83.5
+Kuwait,2022,81.9
+Lao,2022,70.1
+Lebanon,2022,77
+Liberia,2022,67.2
+Libya,2022,76.6
+St. Lucia,2022,75.7
+Sri Lanka,2022,78
+Lesotho,2022,53.3
+Lithuania,2022,76.8
+Luxembourg,2022,83.5
+Latvia,2022,76.4
+Morocco,2022,74.2
+Moldova,2022,74.8
+Madagascar,2022,66.8
+Maldives,2022,80.2
+Mexico,2022,76
+North Macedonia,2022,74.9
+Mali,2022,63.3
+Malta,2022,83.2
+Myanmar,2022,70.3
+Montenegro,2022,76.4
+Mongolia,2022,68.8
+Mozambique,2022,59.9
+Mauritania,2022,71.6
+Mauritius,2022,76.1
+Malawi,2022,66.3
+Malaysia,2022,75.6
+Namibia,2022,66.6
+Niger,2022,63.9
+Nigeria,2022,65.8
+Nicaragua,2022,76.2
+Netherlands,2022,82.3
+Norway,2022,83.5
+Nepal,2022,72.2
+New Zealand,2022,82.4
+Oman,2022,74.7
+Pakistan,2022,66.5
+Panama,2022,80.7
+Peru,2022,81.1
+Philippines,2022,72.3
+Papua New Guinea,2022,65.5
+Poland,2022,78.7
+North Korea,2022,73.9
+Portugal,2022,82.4
+Paraguay,2022,77
+Palestine,2022,75.5
+Qatar,2022,76.8
+Romania,2022,76
+Russia,2022,73.5
+Rwanda,2022,69.8
+Saudi Arabia,2022,75.1
+Sudan,2022,71.5
+Senegal,2022,69.5
+Singapore,2022,85.4
+Solomon Islands,2022,59.6
+Sierra Leone,2022,63.4
+El Salvador,2022,76.6
+Somalia,2022,59.6
+Serbia,2022,76.2
+South Sudan,2022,64.9
+Sao Tome and Principe,2022,71.7
+Suriname,2022,73.2
+Slovak Republic,2022,78.1
+Slovenia,2022,82
+Sweden,2022,83.4
+Eswatini,2022,59.5
+Seychelles,2022,74
+Syria,2022,77.4
+Chad,2022,61.6
+Togo,2022,66.3
+Thailand,2022,79.1
+Tajikistan,2022,70.3
+Turkmenistan,2022,71.3
+Timor-Leste,2022,71.4
+Tonga,2022,73.5
+Trinidad and Tobago,2022,75.4
+Tunisia,2022,78.5
+Turkey,2022,79.3
+Taiwan,2022,81
+Tanzania,2022,68.4
+Uganda,2022,67.5
+Ukraine,2022,74.4
+Uruguay,2022,78.1
+United States,2022,79.2
+Uzbekistan,2022,68.8
+St. Vincent and the Grenadines,2022,73.5
+Venezuela,2022,75.5
+Vietnam,2022,74.9
+Vanuatu,2022,66
+Samoa,2022,71
+Yemen,2022,68.1
+South Africa,2022,66.1
+Zambia,2022,64.2
+Zimbabwe,2022,61.9
