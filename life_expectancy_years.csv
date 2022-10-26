@@ -1,0 +1,187 @@
+country,year,lifeExpectancy,id
+Afghanistan,2022,64.6,4
+Angola,2022,66.4,24
+Albania,2022,79,8
+United Arab Emirates,2022,74.4,784
+Argentina,2022,77.2,32
+Armenia,2022,76.3,51
+Antigua and Barbuda,2022,76.8,28
+Australia,2022,83.5,36
+Austria,2022,82.8,40
+Azerbaijan,2022,71.4,31
+Burundi,2022,65.2,108
+Belgium,2022,82,56
+Benin,2022,65.8,204
+Burkina Faso,2022,63.3,854
+Bangladesh,2022,75.7,50
+Bulgaria,2022,73.8,100
+Bahrain,2022,77.5,48
+Bahamas,2022,73.8,44
+Bosnia and Herzegovina,2022,77.6,70
+Belarus,2022,74.5,112
+Belize,2022,75,84
+Bolivia,2022,73,68
+Brazil,2022,76.6,76
+Barbados,2022,76.7,52
+Brunei,2022,74.9,NA
+Bhutan,2022,74.3,64
+Botswana,2022,62.7,72
+Central African Republic,2022,53.6,140
+Canada,2022,82.8,124
+Switzerland,2022,84.5,756
+Chile,2022,80.8,152
+China,2022,78.3,156
+Cote d'Ivoire,2022,65.5,NA
+Cameroon,2022,64.6,120
+"Congo, Dem. Rep.",2022,66.2,NA
+"Congo, Rep.",2022,66.2,NA
+Colombia,2022,80.9,170
+Comoros,2022,69.6,174
+Cape Verde,2022,74.4,132
+Costa Rica,2022,80.8,188
+Cuba,2022,79.1,192
+Cyprus,2022,81.4,196
+Czech Republic,2022,80,203
+Germany,2022,81.8,276
+Djibouti,2022,67.8,262
+Denmark,2022,81.7,208
+Dominican Republic,2022,73.8,214
+Algeria,2022,76.9,12
+Ecuador,2022,77.2,218
+Egypt,2022,71.6,818
+Eritrea,2022,65.1,232
+Spain,2022,83.6,724
+Estonia,2022,78.6,233
+Ethiopia,2022,70.3,231
+Finland,2022,82.5,246
+Fiji,2022,68.9,242
+France,2022,83.4,250
+"Micronesia, Fed. Sts.",2022,64.5,NA
+Gabon,2022,68.5,266
+United Kingdom,2022,81.6,826
+Georgia,2022,74,268
+Ghana,2022,67.3,288
+Guinea,2022,62.5,324
+Gambia,2022,68.2,270
+Guinea-Bissau,2022,62.2,624
+Equatorial Guinea,2022,67.4,226
+Greece,2022,81.6,300
+Grenada,2022,73.5,308
+Guatemala,2022,73.4,320
+Guyana,2022,67.7,328
+"Hong Kong, China",2022,85,NA
+Honduras,2022,72.7,340
+Croatia,2022,79.3,191
+Haiti,2022,64.9,332
+Hungary,2022,77.1,348
+Indonesia,2022,72.1,360
+India,2022,71.7,356
+Ireland,2022,82.6,372
+Iran,2022,78.5,364
+Iraq,2022,73.8,368
+Iceland,2022,84.7,352
+Israel,2022,83.6,376
+Italy,2022,83.7,380
+Jamaica,2022,76.7,388
+Jordan,2022,78.8,400
+Japan,2022,85.3,392
+Kazakhstan,2022,72.4,398
+Kenya,2022,67.5,404
+Kyrgyz Republic,2022,74,NA
+Cambodia,2022,70.8,116
+Kiribati,2022,61.6,296
+South Korea,2022,83.5,NA
+Kuwait,2022,81.9,414
+Lao,2022,70.1,NA
+Lebanon,2022,77,422
+Liberia,2022,67.2,430
+Libya,2022,76.6,434
+St. Lucia,2022,75.7,NA
+Sri Lanka,2022,78,144
+Lesotho,2022,53.3,426
+Lithuania,2022,76.8,440
+Luxembourg,2022,83.5,442
+Latvia,2022,76.4,428
+Morocco,2022,74.2,504
+Moldova,2022,74.8,498
+Madagascar,2022,66.8,450
+Maldives,2022,80.2,462
+Mexico,2022,76,484
+North Macedonia,2022,74.9,NA
+Mali,2022,63.3,466
+Malta,2022,83.2,470
+Myanmar,2022,70.3,104
+Montenegro,2022,76.4,499
+Mongolia,2022,68.8,496
+Mozambique,2022,59.9,508
+Mauritania,2022,71.6,478
+Mauritius,2022,76.1,480
+Malawi,2022,66.3,454
+Malaysia,2022,75.6,458
+Namibia,2022,66.6,516
+Niger,2022,63.9,562
+Nigeria,2022,65.8,566
+Nicaragua,2022,76.2,558
+Netherlands,2022,82.3,528
+Norway,2022,83.5,578
+Nepal,2022,72.2,524
+New Zealand,2022,82.4,554
+Oman,2022,74.7,512
+Pakistan,2022,66.5,586
+Panama,2022,80.7,591
+Peru,2022,81.1,604
+Philippines,2022,72.3,608
+Papua New Guinea,2022,65.5,598
+Poland,2022,78.7,616
+North Korea,2022,73.9,NA
+Portugal,2022,82.4,620
+Paraguay,2022,77,600
+Palestine,2022,75.5,NA
+Qatar,2022,76.8,634
+Romania,2022,76,642
+Russia,2022,73.5,643
+Rwanda,2022,69.8,646
+Saudi Arabia,2022,75.1,682
+Sudan,2022,71.5,729
+Senegal,2022,69.5,686
+Singapore,2022,85.4,702
+Solomon Islands,2022,59.6,90
+Sierra Leone,2022,63.4,694
+El Salvador,2022,76.6,222
+Somalia,2022,59.6,706
+Serbia,2022,76.2,688
+South Sudan,2022,64.9,728
+Sao Tome and Principe,2022,71.7,678
+Suriname,2022,73.2,740
+Slovak Republic,2022,78.1,NA
+Slovenia,2022,82,705
+Sweden,2022,83.4,752
+Eswatini,2022,59.5,748
+Seychelles,2022,74,690
+Syria,2022,77.4,NA
+Chad,2022,61.6,148
+Togo,2022,66.3,768
+Thailand,2022,79.1,764
+Tajikistan,2022,70.3,762
+Turkmenistan,2022,71.3,795
+Timor-Leste,2022,71.4,626
+Tonga,2022,73.5,776
+Trinidad and Tobago,2022,75.4,780
+Tunisia,2022,78.5,788
+Turkey,2022,79.3,792
+Taiwan,2022,81,NA
+Tanzania,2022,68.4,NA
+Uganda,2022,67.5,800
+Ukraine,2022,74.4,804
+Uruguay,2022,78.1,858
+United States,2022,79.2,840
+Uzbekistan,2022,68.8,860
+St. Vincent and the Grenadines,2022,73.5,NA
+Venezuela,2022,75.5,862
+Vietnam,2022,74.9,704
+Vanuatu,2022,66,548
+Samoa,2022,71,882
+Yemen,2022,68.1,887
+South Africa,2022,66.1,710
+Zambia,2022,64.2,894
+Zimbabwe,2022,61.9,716
